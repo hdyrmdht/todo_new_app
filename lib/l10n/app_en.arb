@@ -1,0 +1,15 @@
+{
+  "todolist": "TO DO List",
+  "tasks": " Tasks",
+  "addtask": "  Add New Task",
+  "tasktitle": "Task Title ",
+  "taskdesc": "Task description ",
+  "settings": "Settings",
+  "english": "English",
+  "arabic": "Arabic",
+  "language": "Language",
+  "dark": "Dark",
+  "light": "Light",
+  "selectdate": "SelectDate",
+  "mode": "Mode"
+}
